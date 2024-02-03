@@ -38,3 +38,5 @@ for tag in li:
         for title in titles:
             print(title.text)
         break
+    else:
+        print("O filme não está no nosso banco de dados.")
