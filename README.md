@@ -6,4 +6,4 @@ Some scraping projects with different Python libraries.
 4. [IMDB simple recomendation system](https://github.com/DraculK/scrape_projects/tree/main/4%20-%20imdb%20recomendations).
 5. [Quotes to Scrape using Python Scrapy Module](https://github.com/DraculK/scrape_projects/tree/main/5%20-%20Quotes).
 6. [IMDB top 250 movies using Python Scrapy Module](https://github.com/DraculK/scrape_projects/tree/main/6%20-%20imdb/imdb).
-7. [https://web-scraping.dev/ Products using Python Scrapy Module](https://github.com/DraculK/scrape_projects/tree/main/7%20-%20products)
+7. [web-scraping.dev Products using Python Scrapy Module](https://github.com/DraculK/scrape_projects/tree/main/7%20-%20products)
