@@ -8,3 +8,4 @@ Some scraping projects with different Python libraries.
 6. [IMDB top 250 movies using Python Scrapy Module](https://github.com/DraculK/scrape_projects/tree/main/6%20-%20imdb/imdb).
 7. [web-scraping.dev Products using Python Scrapy Module](https://github.com/DraculK/scrape_projects/tree/main/7%20-%20products).
 8. [Quotes to Scrape using Selenium](https://github.com/DraculK/scrape_projects/tree/main/8%20-%20Quotes).
+9. [Jisho Dictionary using Selenium](https://github.com/DraculK/scrape_projects/tree/114eed14c7038669a51f56c5011f7e49a46f2c03/9%20-%20Jisho).
